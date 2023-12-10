@@ -1,0 +1,9 @@
+2023-12-10 21:49:04 INFO ====== WebDriver manager ======
+2023-12-10 21:49:06 INFO Get LATEST chromedriver version for google-chrome
+2023-12-10 21:49:07 INFO Get LATEST chromedriver version for google-chrome
+2023-12-10 21:49:07 INFO Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-10 21:49:09 INFO Test login_negative Starting
+2023-12-10 21:49:12 INFO Test login_positive Starting
+2023-12-10 21:49:15 INFO Test add_post Starting
+2023-12-10 21:49:17 INFO Test contact_us Starting
+2023-12-10 21:49:21 INFO Get alert message
